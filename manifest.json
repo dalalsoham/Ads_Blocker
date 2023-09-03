@@ -1,6 +1,6 @@
 {
     "name": "Simple Ad Blocker",
-    "Versions": "1.0.0+build1234",
+    "version": "1.0.0",
     "manifest_version": 3,
     "permissions": [
         "declarativeNetRequest"
